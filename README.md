@@ -13,6 +13,8 @@ Change the revenue and spending values on the excel sheet, then save the file in
  - Clone the project
 ```git clone https://github.com/Wraptron/profit-calculator.git```
 
+- Modify the values on the Excel sheet
+
 - Run the project
 ```go run main.go```
 
