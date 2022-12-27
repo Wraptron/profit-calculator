@@ -5,6 +5,9 @@ Utilizing an Excel sheet, compute the profit and loss account.
 ## Prerequisits
 Must have go installed on the computer.
 
+## Input
+Change the revenue and spending values on the excel sheet, then save the file in the same folder as main.go
+
 ## Steps to run the project
 
  - Clone the project
